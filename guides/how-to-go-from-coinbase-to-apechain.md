@@ -1,5 +1,7 @@
 # How to go from Coinbase to ApeChain
-Quick write up on how to move money from your debit card (or bank account) to ApeChain in a few minutes. I want to cover a few different methods.
+Quick write up on how to move money from your debit card (or bank account) to ApeChain in a few minutes. I'm going to cover a few different methods.
+- [Base](#home-base)
+- [Arbitrum](#arbitrum-ape)
 
 ## Home Base
 - Open the Coinbase app on your mobile device
