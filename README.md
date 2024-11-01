@@ -9,6 +9,7 @@
 ## Bridges
 - Resorvoir: https://relay.link/bridge/ape
 - Ape Portal: https://apechain.com/portal
+- Stargate: https://stargate.finance/bridge
 
 ## Guides
 - [How to go from Coinbase to ApeChain](guides/how-to-go-from-coinbase-to-apechain.md)
