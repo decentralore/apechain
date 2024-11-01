@@ -23,6 +23,7 @@ Quick write up on how to move money from your debit card (or bank account) to Ap
 - Select the appropriate payment method
     - For speed, use the debit card option
     - **NOTE:** Personally, ACH transfers have worked but Coinbase advises against it if you want instant withdrawals
+
     ![Coinbase Debit Card Option](assets/coinbase-debit-card-option.png)
 
 - Tap the `Buy Now` button
@@ -107,6 +108,7 @@ Hat tip to Melbo.eth for the outline of this method
 - Select the appropriate payment method
     - For speed, use the debit card option
     - **NOTE:** ACH transfers work but may delay instant withdrawals
+
     ![Coinbase Debit Card Option](assets/coinbase-debit-card-option.png)
 
 - Tap the `Buy Now` button
